@@ -18,7 +18,7 @@ N/A
 
 This website can be used as a personal portfolio for myself and prospective employers. Following the link, you’ll be able to see my current projects that have been uploaded, and even find a tool tip. 
 
-Vist it and see for yourself [Philipp Winstons's Portfolio](https://)
+Vist it and see for yourself [Philipp Winstons's Portfolio](https://philippwinston.github.io/Philipp-Winston-Portfolio/)
 
 
 [alt text](assets/images/portfolio.png)
