@@ -124,7 +124,7 @@ main {
   border-color: #000;
   border-style: groove;
   padding: 3%;
-  max-height: 100px;
+  max-height: 250px;
   width: fit-content;
   overflow-y: auto;
   overflow-x: hidden;
