@@ -2,7 +2,8 @@ body {
   background-image: url(../images/background.jpeg);
   background-color: whitesmoke;
   background-repeat: no-repeat;
-  background-position-y: 32%;
+  background-position: center center;
+  background-size: cover;
   margin: 0px;
 }
 
@@ -143,6 +144,12 @@ main {
 
 .Working-Projects a:hover img {
   filter: none;
+}
+
+.About-Me, .Working-Projects {
+  width: 75%;
+  margin: 15px auto;
+  
 }
 
 footer {
