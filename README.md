@@ -21,7 +21,7 @@ This website can be used as a personal portfolio for myself and prospective empl
 Vist it and see for yourself [Philipp Winstons's Portfolio](https://philippwinston.github.io/Philipp-Winston-Portfolio/)
 
 
-[alt text](assets/images/portfolio.png)
+![alt text](assets/images/portfolio.png)
 
 
 ## Credits
