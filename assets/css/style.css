@@ -66,8 +66,9 @@ main {
   border-color: #000;
   border-style: groove;
   margin: 5px;
+  padding: 3%;
   max-height: 250px;
-  min-height: 110px;
+  min-height: 200px;
   overflow-y: auto;
   max-width: 700px;
   background-color: whitesmoke;
@@ -146,11 +147,6 @@ main {
   filter: none;
 }
 
-.About-Me, .Working-Projects {
-  width: 75%;
-  margin: 15px auto;
-  
-}
 
 footer {
   padding: 15px;
