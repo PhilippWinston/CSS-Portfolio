@@ -1,7 +1,7 @@
 body {
   background-image: url(../images/background.jpeg);
   background-color: whitesmoke;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-position: center center;
   background-size: cover;
   margin: 0px;
