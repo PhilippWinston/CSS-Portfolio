@@ -70,7 +70,7 @@ main {
   max-height: 250px;
   min-height: 200px;
   overflow-y: auto;
-  max-width: 700px;
+  /* max-width: 700px; */
   background-color: whitesmoke;
 }
 
@@ -124,7 +124,7 @@ main {
   padding: 3%;
   max-height: 250px;
   min-height: 100px;
-  max-width: 700px;
+  /* max-width: 700px; */
   overflow-y: auto;
   overflow-x: hidden;
   background-color: whitesmoke;
@@ -147,7 +147,7 @@ main {
 }
 
 .About-Me, .Working-Projects {
-  width: 65%;
+  width: 70%;
   margin: 15px auto;
 }
 
