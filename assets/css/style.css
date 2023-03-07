@@ -19,10 +19,6 @@ nav > a {
   margin: 20px;
 }
 
-a:visited {
-  color: #782121;
-}
-
 nav > a:visited {
   color: whitesmoke;
 }
@@ -34,7 +30,6 @@ header h1 {
 
 header nav {
   padding-top: 10px;
-  /* margin-right: 10px; */
   flex-wrap: wrap;
   flex-direction: row;
   float: right;
@@ -71,6 +66,7 @@ main {
   border-style: groove;
   margin: 5px;
   max-height: 250px;
+  min-height: 110px;
   overflow-y: auto;
   background-color: whitesmoke;
 }
@@ -93,7 +89,6 @@ main {
   border-radius: 6px;
   padding: 5px 0;
 
-  /* Position the tooltip text */
   position: absolute;
   z-index: 1;
   bottom: 100%;
@@ -125,6 +120,8 @@ main {
   border-style: groove;
   padding: 3%;
   max-height: 250px;
+
+  min-height: 100px;
   width: fit-content;
   overflow-y: auto;
   overflow-x: hidden;
